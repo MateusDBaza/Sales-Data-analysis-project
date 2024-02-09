@@ -1,5 +1,7 @@
 # Sales-Data-analysis-project
 
+![Screenshot 2024-02-09 094829](https://github.com/MateusDBaza/Sales-Data-analysis-project/assets/67308258/75a00f9f-1ed8-4342-92f7-fb7ea747bcd5)
+
 In this project I used Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data.
 The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
