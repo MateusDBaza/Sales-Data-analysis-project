@@ -1,4 +1,4 @@
-# Sales-Data-analysis-project
+# Sales-Data-analysis-(Python, pandas, Looker Studio)project
 
 ![Screenshot 2024-02-09 094829](https://github.com/MateusDBaza/Sales-Data-analysis-project/assets/67308258/75a00f9f-1ed8-4342-92f7-fb7ea747bcd5)
 
